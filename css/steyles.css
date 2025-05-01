@@ -77,7 +77,7 @@ body {
 
 .logo__link:active {
 	opacity: 0.6;
-	transition: all 0.7s ease;
+	transition: all 0.3s;
 }
 
 .site-header__title {
@@ -92,6 +92,7 @@ body {
 	align-items: center;
 	margin-right: 51px;
 }
+
 .site-header__item:not(:last-child) {
 	margin-right: 51px;
 }
@@ -140,7 +141,7 @@ body {
 
 /* MAIN START */
 
-.hero {
+.main-content {
 	max-width: 1512px;
 	height: 566px;
 	margin-top: 55px;
